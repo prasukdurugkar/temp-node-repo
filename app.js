@@ -5,3 +5,4 @@
  const newItem = _.flattenDeep(items)
 
  console.log(newItem)
+ console.log('Hello people')
